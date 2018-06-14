@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DecoderDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Chat">Chat</string>
+    <string name="Threads">Threads</string>
+    <string name="QnA">QnA</string>
+    <string name="Codes">Codes</string>
+</resources>
